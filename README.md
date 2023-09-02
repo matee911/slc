@@ -1,0 +1,2 @@
+# slc
+Smart Lighting Controller
