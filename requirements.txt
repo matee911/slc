@@ -1,0 +1,4 @@
+pyserial==3.5
+pytest==7.4.1
+numpy
+click==8.1.7
